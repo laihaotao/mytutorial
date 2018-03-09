@@ -1,5 +1,12 @@
 # CMake Tutorial
 
+There are total 3 examples, should learn them in the following order:
+
+1. basic
+2. mul_src
+3. use_lib
+
+
 ## Basic Example
 
 Assume we have the following directory structure:
